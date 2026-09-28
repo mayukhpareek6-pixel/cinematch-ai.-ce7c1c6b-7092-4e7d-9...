@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+similarity.pkl
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
